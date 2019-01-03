@@ -1,0 +1,19 @@
+Welcome to My Repository
+In this sesssion we are going to learn about how to puch and pull the code, version controlling by creating branches versions etc..
+
+
+Steps to Build a Home:
+consult a engineer and prepare a plan
+Consult a Contractor
+Allocate physical space to build  & Budget allocation
+Allocate human resource
+After 3 months of time review the Home Progress
+After 4 months of total period Home is ready to occupy
+Finish
+House welcoming ceremony
+Thanks for Coming 
+
+Regards
+Chaithanya Kumar Rayapati
+
+
